@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi MPLS SMK Negeri 2 Baleendah",
+  "description": "Aplikasi manajemen dan penghitungan poin peserta Masa Pengenalan Lingkungan Sekolah (MPLS) SMK Negeri 2 Baleendah untuk dasar penilaian Sertifikat MPLS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
